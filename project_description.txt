@@ -1,0 +1,3 @@
+Project Name: reactRaman
+
+Description: This is a React project named reactRaman. It's a personal website/portfolio for Raman, showcasing his skills, projects, and experiences.
